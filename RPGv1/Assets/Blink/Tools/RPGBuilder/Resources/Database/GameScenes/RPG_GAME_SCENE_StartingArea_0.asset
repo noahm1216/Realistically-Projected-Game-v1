@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd833f50e74631042ae5eac5ab830020, type: 3}
+  m_Name: RPG_GAME_SCENE_StartingArea_0
+  m_EditorClassIdentifier: 
+  ID: 1
+  _name: StartingArea_0
+  _fileName: RPG_GAME_SCENE_StartingArea_0
+  displayName: Human Territory
+  description: This is really just a test scene for building my first RPG scene.
+    I aim to do much more, but for now this should teach me to use the tool efficiently
+  loadingBG: {fileID: 21300000, guid: 76ad8e810ddfd1a4d83e6129e6affd43, type: 3}
+  minimapImage: {fileID: 21300000, guid: fe113dc71d1d8fd4bb556984f128acb1, type: 3}
+  mapBounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 25, y: 0, z: 25}
+  mapSize: {x: 4096, y: 4096}
+  startPositionID: 1
+  startPositionREF: {fileID: 0}
+  isProceduralScene: 0
+  SpawnPointName: 
+  regions: []

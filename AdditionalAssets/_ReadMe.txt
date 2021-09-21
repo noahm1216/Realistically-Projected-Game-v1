@@ -1,0 +1,1 @@
+These are assets needed to add reference and share across the project that shouldnt be inside Unity yet
